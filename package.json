@@ -1,0 +1,15 @@
+{
+  "name": "postings-api",
+  "version": "1.0.0",
+  "description": "API documentation and examples for the lever postings REST API",
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "keywords": [
+    "Lever",
+    "API",
+    "AJAX"
+  ],
+  "author": ""
+}
